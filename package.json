@@ -1,0 +1,13 @@
+{
+  "name": "sniper-off-road",
+  "version": "1.0.0",
+  "description": "Sniper Off Road - Lift Kits & Off-Road Customization",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
